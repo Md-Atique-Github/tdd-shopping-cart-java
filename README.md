@@ -6,7 +6,7 @@ You have been hired as a developer at Ali Snobba - a snobby online store where c
 
 As a developer, your task is to implement the following user story, following the TDD workflow:
 
-- Write (failing) tests before writing any code
+ Write (failing) tests before writing any code
 - Only write code in response to failing test
 - Make tests pass with simplest code possible
 - Make a commit in git each time you get a passing test
